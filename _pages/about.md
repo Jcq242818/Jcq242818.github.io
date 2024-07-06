@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a First-year doctoral student from [School of CS](https://cs.njust.edu.cn/), [Peking University](https://www.njust.edu.cn/). My research interest includes Network science, data mining, complex networks.
+I'm a First-year MS student from [Department of Electronic and Electrical Engineering (EEE)](https://eee.sustech.edu.cn/), [South University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/). My research interest includes many aspects of wireless network and mobile computing, especially **I**ntegrated **S**ensing **A**nd **C**ommunication (ISAC).
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
-
+I am now supervised by [Prof. Rui Wang](http://lasso.eee.sustech.edu.cn/) of LASSO Lab from EEE, SUSTech.
+I
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:XX@NJUST.edu.cn) / [Github](https://github.com/Lingxianwen) / [Wechat](../images/wechat.jpg) / [CSDN](https://lingxw.blog.csdn.net/)
+[Email](12332152@mail.sustech.edu.cn) / [Github](https://github.com/Jcq242818/) / [Wechat](../images/wechat.jpg) 
