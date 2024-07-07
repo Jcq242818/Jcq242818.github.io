@@ -11,7 +11,7 @@ I am currently a M.S. student in [Department of Electronic and Electrical Engine
 
 I am also a member of LASSO Lab supervised by [Prof. Rui Wang](http://lasso.eee.sustech.edu.cn/).
 
-You can find my CV here: [Chenqing Ji's CV](../assets/Curriculum_Vitae.pdf).
+You can find my detailed CV here: [Chenqing Ji's CV](../assets/Curriculum_Vitae.pdf).
 
 ## Education
 - M.Sc. in Ectronic Science and Technology, South University of Science and Technology, Sept. 2013 - Jun. 2026 (expected)
