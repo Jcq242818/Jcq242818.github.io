@@ -8,7 +8,7 @@ redirect_from:
   - /project.html
 ---
 
-<big>**"Simulation Meets Reality" in Wireless Channel**</big>(April. 2023 - Now)
+<big>**"Simulation Meets Reality" in Wireless Channel**</big>&nbsp;(April. 2023 - Now)
 
 - **CASTER:** Design a computer-vision-assisted simulation **software pipeline** to address the issue of **"labor-intensive" training radar dataset acquisition for mmWave-based wireless hand gesture recognition**. That is, in the proposed CASTER simulator, the training radar dataset can be simulated **via existing videos by ray-tracing based channel modeling**. Particularly, in the channel simulation, a gesture is represented by a sequence of snapshots, and the channel impulse response of each snapshot is calculated via tracing the rays scattered off a primitive-based hand model. Moreover, CASTER simulator relies on the existing video clips to extract the motion data of gestures. Thus, the massive measurements of wireless channel can be eliminated. The experiments first demonstrate an 83.0% average recognition accuracy of simulation-to-reality inference in recognizing 5 categories of gestures. Moreover, this accuracy can be boosted to 96.5% via the method of transfer learning. **[OJ-COMS'24]**
 
