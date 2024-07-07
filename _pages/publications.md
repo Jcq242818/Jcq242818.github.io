@@ -11,18 +11,18 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
 
 ### Journal and Magazine Papers
 
-- [IEEE OJ-COMS'24] Zhenyu Ren, Huangxun Chen, Jing Wei, Jin Zhang, Qian Zhang, “CASTER: A Computer-Vision-Assisted Wireless Channel Simulator for Gesture Recognition”. [paper]
+- [IEEE OJ-COMS'24] Zhenyu Ren, Guoliang Li, Chenqing Ji, Chao Yu, Shuai Wang, Rui Wang, "CASTER: A Computer-Vision-Assisted Wireless Channel Simulator for Gesture Recognition". [paper]()
 
 
-###Conference Papers
+### Conference Papers
 
-- [IEEE WCNC'24] Yuelin Liu, Huangxun Chen, Zhice Yang, “Enforcing End-to-end Security for Remote Conferencing”. [paper]
-- [IEEE OGC'23] Hua Kang, Qingyong Hu, Huangxun Chen, Qianyi Huang, Qian Zhang, Min Cheng, “Cross-Shaped Separated Spatial-Temporal UNet Transformer for Accurate Channel Prediction”. [paper]
-- [IEEE ICCE'23] Yuxuan Zhou, Chenggao Li, Huangxun Chen, Qian Zhang, “RIStealth: Practical and Covert Physical-Layer Attack
+- [IEEE WCNC'24] Kehan Wu, Renqi Chen, Haiyu Wang, Chenqing Ji, Jiayuan Zhu, Guang Wu, "Passive Respiration Detection via mmWave Communication Signal Under Interference". [paper]()
+- [IEEE OGC'23] Chenqing Ji, Chenlong Xue, Gina Jinna Chen, Yitong Guo, Dan Luo, Perry Ping Shum, "A Fluorescence Resonance Energy Transfer-Based Molecular Probe for Cisplatin Detection". [paper]()
+- [IEEE ICCE'23] Chenqing Ji, Yujie Lu, Yongjuan Shi, Guang Wu, "A Fragmented Target Recognition System Based on Zero-Shot Learning". [paper]()
