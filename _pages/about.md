@@ -16,11 +16,11 @@ You can find my detailed CV here: [Chenqing Ji's CV](../assets/Curriculum_Vitae.
 ## Education
 - M.Sc. in Ectronic Science and Technology, South University of Science and Technology, Sept. 2013 - Jun. 2026 (expected)
 
-&emsp;&emsp;&emsp;&emsp; Supervised by [Prof. WANG Rui](http://lasso.eee.sustech.edu.cn/). GPA: (3.74/4.00), ranked 2/50.
+&emsp;&emsp;&emsp; Supervised by [Prof. WANG Rui](http://lasso.eee.sustech.edu.cn/). GPA: (3.74/4.00), ranked 2/50.
 
 - B.Sc. in Communication Engineering, South University of Science and Technology, Sept. 2019 - Jun. 2023
 
-&emsp;&emsp;&emsp;&emsp; Supervised by [Prof. Perry Ping Shum](https://faculty.sustech.edu.cn/?tagid=shenp&iscss=1&snapid=1&orderby=date&go=1). GPA: (3.77/4.00), ranked 6/33.
+&emsp;&emsp;&emsp; Supervised by [Prof. Perry Ping Shum](https://faculty.sustech.edu.cn/?tagid=shenp&iscss=1&snapid=1&orderby=date&go=1). GPA: (3.77/4.00), ranked 6/33.
 
 ## Research Interests
 - Wireless Sensing using RF signals such as LTE (4G/5G), Wi-Fi and mmWave
