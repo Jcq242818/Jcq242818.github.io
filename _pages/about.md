@@ -14,15 +14,19 @@ I am currently studying in the **LA**b of Wireles**S** communications and **S**y
 You can find my detailed CV here: [Chenqing Ji's CV](../assets/Curriculum_Vitae.pdf).
 
 ## Education
-- <b>Southern University of Science and Technology | Master in Electronic Science and Technology</b> <i style="float: right">September. 2023 - July. 2026 (expected)</i>
+- <b>Master in Ectronic Science and Technology, South University of Science and Technology</b> <i style="float: right">September. 2023 - July. 2026 (expected)</i>
 
-&emsp;&emsp;&nbsp;&nbsp; Supervised by [Prof. WANG Rui](http://lasso.eee.sustech.edu.cn/). GPA: (3.74/4.00), ranked 2/50.
+  Supervised by [Prof. WANG Rui](http://lasso.eee.sustech.edu.cn/). GPA: (3.74/4.00), ranked 2/50.
 
-- <b>Southern University of Science and Technology | Bachelor in Communication Engineering</b> <i style="float: right">September. 2019 - July. 2023</i>
+- <b>Bachelor in Communication Engineering, South University of Science and Technology</b> <i style="float: right">September. 2019 - July. 2023</i>
 
-&emsp;&emsp;&nbsp;&nbsp; Supervised by [Prof. Perry Ping Shum](https://faculty.sustech.edu.cn/?tagid=shenp&iscss=1&snapid=1&orderby=date&go=1). GPA: (3.77/4.00), ranked 6/33.
+  Supervised by [Prof. Perry Ping Shum](https://faculty.sustech.edu.cn/?tagid=shenp&iscss=1&snapid=1&orderby=date&go=1). GPA: (3.77/4.00), ranked 6/33.
 
 ## Expericence
+
+- <b>Beijing Zeng Yihui Chuang Technology Co., Ltd. (IECUBE, NI's Official Partner) | Research Intern</b> <i style="float: right">August. 2021 - September. 2021</i>
+
+  Working on wireless sensing and communication. Internship Certificate: [[pdf]](/cv.assets/intern_huawei_proof.pdf).
 
 ## Research Interests
 - Wireless Sensing using RF signals such as LTE (4G/5G), Wi-Fi and mmWave
