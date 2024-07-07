@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-### Note: Underline (____) means the corresponding authors.
+<!-- ### Note: Underline (____) means the corresponding authors. -->
 
 ## Journal and Magazine Papers
 
