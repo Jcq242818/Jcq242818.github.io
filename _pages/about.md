@@ -11,7 +11,7 @@ I am a M.S. student in [Department of Electronic and Electrical Engineering (EEE
 
 I am currently studying in the **LA**b of Wireles**S** communications and **S**ystem **O**ptimization (LASSO) and being supervised by [Prof. WANG Rui](http://lasso.eee.sustech.edu.cn/).
 
-You can find my detailed CV here: [Chenqing Ji's CV](../assets/Curriculum_Vitae.pdf).
+You can find my detailed resume here: [[CV.pdf]](../assets/Curriculum_Vitae.pdf).
 
 ## Education
 - <b>Master in Ectronic Science and Technology, South University of Science and Technology</b> <i style="float: right">September. 2023 - July. 2026 (expected)</i>
