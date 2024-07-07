@@ -8,7 +8,6 @@ author_profile: true
 <!-- {% include base_path %} -->
 
 #### Note: Underline (___) means the corresponding authors.
-
 ## Journal and Magazine Papers
 
 - **[IEEE OJ-COMS'24]** Zhenyu Ren, Guoliang Li, **Chenqing Ji**, Chao Yu, Shuai Wang, <u>Rui Wang</u>, "[CASTER: A Computer-Vision-Assisted Wireless Channel Simulator for Gesture Recognition](https://ieeexplore.ieee.org/document/10525191)". [[Paper]](../files/Ji-CASTER.pdf)
