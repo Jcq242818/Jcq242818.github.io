@@ -4,8 +4,8 @@ title: "Main Research Projects"
 permalink: /Projects/
 author_profile: true
 redirect_from:
-  - /Project/
-  - /Project.html
+  - /project/
+  - /project.html
 ---
 
 <div class="paper-box">
