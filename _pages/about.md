@@ -28,7 +28,7 @@ You can find my CV here: [Chenqing Ji's CV](../assets/Curriculum_Vitae.pdf).
 - Mobile Computing (especially Mobile Healthcare)
 - Computer Network (especially Wi-Fi protocols)
 
-## News
+## Recent News
 - [06/05/2024] CASTER is accepted to OJ-COMS. Best wishes to my senior [Zhenyu Ren](https://renzhenyu.site/)!
 - [26/01/2024] Our paper "Passive Respiration Detection via mmWave Communication Signal Under Interference" is accepted to WCNC 2024.
 - [01/09/2023] Joining SUSTech as a M.S. student. New journey😊😊😊
