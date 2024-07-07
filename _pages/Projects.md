@@ -1,6 +1,6 @@
 ---
 # layout: archive
-title: "Main Research Projects"
+title: "Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -8,6 +8,7 @@ redirect_from:
   - /project.html
 ---
 
+<big>**Main Research Projects**</big>
 <div class="paper-box">
   <div class="paper-box-image">
     <div class="badge">
