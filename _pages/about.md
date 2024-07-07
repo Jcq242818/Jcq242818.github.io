@@ -24,9 +24,9 @@ You can find my detailed CV here: [Chenqing Ji's CV](../assets/Curriculum_Vitae.
 
 ## Expericence
 
-- <b>Beijing Zeng Yihui Chuang Technology Co., Ltd. (IECUBE, NI's Official Partner) | Research Intern</b> <i style="float: right">August. 2021 - September. 2021</i>
+- <b>Beijing Zeng Yihui Chuang Technology Co., Ltd. (IECUBE, Official Partner of National Instruments)</b> <i style="float: right">August. 2022 - September. 2022</i>
 
-  Working on wireless sensing and communication. Internship Certificate: [[pdf]](/cv.assets/intern_huawei_proof.pdf).
+  Working on wireless communication combined with artificial intelligence (AI). Mainly helped the company advance a project on modulating signal recognition based on USRP, using neural networks to achieve high recognition accuracy of the signals with different modulation modes. Internship Certificate: [[pdf]](../files/Ji-internship.pdf).
 
 ## Research Interests
 - Wireless Sensing using RF signals such as LTE (4G/5G), Wi-Fi and mmWave
