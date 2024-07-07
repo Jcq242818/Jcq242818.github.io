@@ -30,9 +30,9 @@ You can find my detailed resume here: [[CV.pdf]](../files/Curriculum_Vitae.pdf).
 
 ## Research Interests
 - Wireless Sensing using RF signals such as LTE (4G/5G), Wi-Fi and mmWave
-- Channel Modeling
+- Channel Modeling and Sounding (especially channel parameter estimation)
 - Mobile Computing (especially Mobile Healthcare)
-- Computer Network (especially Wi-Fi protocols)
+- Computer Network in MAC layer (especially Wi-Fi protocols)
 
 ## Recent News
 - [06/05/2024] CASTER is accepted to OJ-COMS. Best congratulations to my senior [Zhenyu Ren](https://renzhenyu.site/)!
