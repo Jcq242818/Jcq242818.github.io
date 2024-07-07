@@ -1,10 +1,11 @@
 ---
-layout: archive
+# layout: archive
 title: "Awards & Achievements"
 permalink: /Awards/
 author_profile: true
 ---
 
+<big>**Awards & Achievements**</big>
 
 - The Excellent Graduate Teaching Assistant for the Fall Semester in 2023.
 - **Core Member** for Guangdong University Students’ Science and Technology Innovation Cultivation Special Fund (“Climbing Plan” Special Fund), 2023∼2024 **(Funding: 20,000 RMB)**.
