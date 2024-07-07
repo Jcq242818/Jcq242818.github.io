@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-
+{% include base_path %}
 
 ### Note: Underline (___) means the corresponding authors.
 
