@@ -14,5 +14,5 @@ redirect_from:
 
   <img src="../images/channel_simulation.png" style="zoom:18%;" />
 
-<p>Zhenyu Ren, Guoliang Li, <strong>Chenqing Ji</strong>, Chao Yu, Shuai Wang, and Rui Wang. “CASTER: A Computer-Vision-Assisted Wireless Channel Simulator for Gesture Recognition,” in <i>IEEE Open Journal of the Communications Society</i>, vol. 5, pp. 3185-3195, 2024 (Current impact factor: 7.9, JCR Q1). <br> <a href="../files/Ji-CASTER.pdf">[Paper]</a> | <a href="https://github.com/rzy0901/testSpectrogram">[GitHub]</a> | <a href="https://lasso-sustech.github.io/CASTER/">[Project Page]</a> (with three video demos).
-  </p>
+  Zhenyu Ren, Guoliang Li, <strong>Chenqing Ji</strong>, Chao Yu, Shuai Wang, and Rui Wang. “CASTER: A Computer-Vision-Assisted Wireless Channel Simulator for Gesture Recognition,” in <i>IEEE Open Journal of the Communications Society</i>, vol. 5, pp. 3185-3195, 2024 (Current impact factor: 7.9, JCR Q1). <br> <a href="../files/Ji-CASTER.pdf">[Paper]</a> | <a href="https://github.com/rzy0901/testSpectrogram">[GitHub]</a> | <a href="https://lasso-sustech.github.io/CASTER/">[Project Page]</a> (with three video demos).
+
