@@ -10,7 +10,7 @@ author_profile: true
     <div class="badge">
     IEEE OJ-COMS | SYSTEM
     </div>
-    <img src="/cv.assets/channel_simulation.png" alt="CASTER" width="100%">
+    <img src="../images/channel_simulation.png" alt="CASTER" width="100%">
     <div class="paper-box-caption">Keywords: Wireless hand gesture recognition, channel model, simulation-to-reality inference, mmWave system.</div>
   </div>
   <div class="paper-box-text">
