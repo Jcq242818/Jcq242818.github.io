@@ -24,23 +24,23 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "South University of Science and Technology"
+  bio              : "a M.S. student in South University of Science and Technology"
+  location         : "Shenzhen, China"
+  employer         : "SUSTech"
   uri              : # URL
   email            : "12332152@mail.sustech.edu.cn"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
+  github           : "Jcq242818"
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid            : "https://orcid.org/my-orcid?emailVerified=true&orcid=0009-0005-1770-1203"
+  # orcid            : "https://orcid.org/my-orcid?emailVerified=true&orcid=0009-0005-1770-1203"
   researchgate     : "https://www.researchgate.net/profile/Chenqing-Ji"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
   kaggle           : # Username
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
