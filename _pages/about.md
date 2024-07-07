@@ -16,7 +16,8 @@ You can find my CV here: [Chenqing Ji's CV](../assets/Curriculum_Vitae.pdf).
 ## Education
 - M.Sc. in Ectronic Science and Technology, South University of Science and Technology, Sept. 2013 - Jun. 2026 (expected)
 
-Supervised by Prof. Rui Wang. GPA: (3.74/4.00), ranked 2/33.
+&nbsp Supervised by Prof. Rui Wang. GPA: (3.74/4.00), ranked 2/50.
+
 - B.Sc. in Communication Engineering, South University of Science and Technology, Sept. 2019 - Jun. 2023
 
 Supervised by Prof. Perry Ping Shum. GPA: (3.77/4.00), ranked 6/33.
