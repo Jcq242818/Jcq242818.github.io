@@ -7,7 +7,7 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 
-### Note: Underline (___) means the corresponding authors.
+#### Note: Underline (___) means the corresponding authors.
 
 ## Journal and Magazine Papers
 
