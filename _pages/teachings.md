@@ -8,8 +8,6 @@ redirect_from:
   - /teaching.html
 ---
 
-<big>**Awards & Achievements**</big>
 
-
-- Wireless Communications (EE313), teaching Assistantin in 2023 Fall semester, SUSTech.
-- Design of Modern Communication Systems (EE312), teaching Assistant in 2024 Spring semester, SUSTech.
+- Wireless Communications (EE313), teaching assistant in 2023 fall semester, SUSTech.
+- Design of Modern Communication Systems (EE312), teaching assistant in 2024 spring semester, SUSTech.
