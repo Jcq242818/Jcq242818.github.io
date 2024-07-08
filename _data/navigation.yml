@@ -9,6 +9,9 @@ main:
   - title: "Awards"
     url: /awards/
 
+  - title: "Teaching"
+    url: /teachings/
+
   - title: "Blogs"
     url: /year-archive/
 
