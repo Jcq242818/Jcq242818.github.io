@@ -13,7 +13,7 @@ redirect_from:
 **Note: Underline (___) means the corresponding authors, same as below.**
 
 - **[IEEE OJ-COMS'24]** Zhenyu Ren, Guoliang Li, **Chenqing Ji**, Chao Yu, Shuai Wang, <u>Rui Wang</u>, "[CASTER: A Computer-Vision-Assisted Wireless Channel Simulator for Gesture Recognition](https://ieeexplore.ieee.org/document/10525191)". [[Paper]](../files/Ji-CASTER.pdf)
-[[GitHub]](https://github.com/rzy0901/testSpectrogram) [[Project Page]](https://lasso-sustech.github.io/CASTER/) (with three video demos).
+[[GitHub]](https://github.com/rzy0901/testSpectrogram) [[Project Page]](https://lasso-sustech.github.io/CASTER/)
 
 
 <big>**Conference Papers**</big>
