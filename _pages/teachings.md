@@ -10,5 +10,6 @@ redirect_from:
 
 <big>**Teaching**</big>
 
-- Wireless Communications (EE313), teaching assistant in 2023 Fall semester, SUSTech.
-- Design of Modern Communication Systems (EE312), teaching assistant in 2024 Spring semester, SUSTech.
+- <b>Design of Modern Communication Systems (EE312), teaching assistant, SUSTech</b> <i style="float: right">2024 Spring semester</i>
+
+- <b>Wireless Communications (EE313), teaching assistant, SUSTech</b> <i style="float: right">September. 2019 - July. 2023</i>
