@@ -14,7 +14,7 @@ I am currently studying in the **LA**b of Wireles**S** communications and **S**y
 You can find my detailed resume here: [[CV.pdf]](../files/Curriculum_Vitae.pdf).
 
 ## Education
-- <b>Master in Ectronic Science and Technology, South University of Science and Technology</b> <i style="float: right">September. 2023 - July. 2026 (expected)</i>
+- <b>Master in Electronic Science and Technology, South University of Science and Technology</b> <i style="float: right">September. 2023 - July. 2026 (expected)</i>
 
   Supervised by [Prof. WANG Rui](http://lasso.eee.sustech.edu.cn/). GPA: (3.74/4.00), ranked 2/50.
 
