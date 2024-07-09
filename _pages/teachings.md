@@ -10,6 +10,6 @@ redirect_from:
 
 <big>**Teaching**</big>
 
-- <b>Design of Modern Communication Systems (EE312), teaching assistant, SUSTech</b> <i style="float: right">2024 Spring Semester</i>
+- Design of Modern Communication Systems (EE312), teaching assistant, SUSTech <i style="float: right">2024 Spring Semester</i>
 
-- <b>Wireless Communications (EE313), teaching assistant, SUSTech</b> <i style="float: right">2023 Fall Semester</i>
+- Wireless Communications (EE313), teaching assistant, SUSTech <i style="float: right">2023 Fall Semester</i>
