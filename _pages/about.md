@@ -24,7 +24,7 @@ You can find my detailed resume here: [[CV.pdf]](../files/Curriculum_Vitae.pdf).
 
 ## Expericence
 
-- <b>Beijing ZengYi HuiChuang Technology Co., Ltd. (IECUBE, Official Partner of National Instruments)</b> <i style="float: right">August. 2022 - September. 2022</i>
+- <b>Beijing ZengYi HuiChuang Technology Co., Ltd. (IECUBE, Official Partner of National Instruments)</b> <i style="float: right">Aug. 2022 - Sept. 2022</i>
 
   Working on **wireless communication combined with artificial intelligence (AI)**. Mainly helped the company advance a project on modulating signal recognition based on USRP, using neural networks to achieve high recognition accuracy of the signals with different modulation modes. Internship Certificate: [[pdf]](../files/Ji-internship.pdf).
 
