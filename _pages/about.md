@@ -4,7 +4,7 @@ title: "Biography"
 author_profile: true
 redirect_from:
   - /about/
-  - /about.html
+  - /about.html/
 ---
 
 I am a M.S. student in [Department of Electronic and Electrical Engineering (EEE)](https://eee.sustech.edu.cn/), [South University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/). My research interest includes many aspects of wireless sensing, especially using wireless signals such as LTE, Wi-Fi or millimeter wave (mmWave) to sense the surrounding environment and moving people which can provide a decision-making basis for communication.
