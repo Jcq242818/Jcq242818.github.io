@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 redirect_from:
   - /publication/
-  - /publication.html/
+  - /publication.html
 ---
 
 <big>**Journal and Magazine Papers**</big>

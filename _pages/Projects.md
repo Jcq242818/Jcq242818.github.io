@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 redirect_from:
   - /project/
-  - /project.html/
+  - /project.html
 ---
 
 <big>**"Simulation Meets Reality" in Wireless Channel**</big>&nbsp;(April. 2023 - Now)

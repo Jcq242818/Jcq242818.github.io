@@ -6,7 +6,7 @@ author_profile: true
 author_profile: true
 redirect_from:
   - /award/
-  - /award.html/
+  - /award.html
 ---
 
 <big>**Awards & Achievements**</big>
