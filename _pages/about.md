@@ -14,11 +14,11 @@ I am currently studying in the **LA**b of Wireles**S** communications and **S**y
 You can find my detailed resume here: [[CV.pdf]](../files/Curriculum_Vitae.pdf).
 
 ## Education
-- <b>Master in Electronic Science and Technology, South University of Science and Technology</b> <i style="float: right">September. 2023 - July. 2026 (expected)</i>
+- <b>Master in Electronic Science and Technology, South University of Science and Technology (SUSTech)</b> <i style="float: right">Sept. 2023 - Jul. 2026 (expected)</i>
 
   Supervised by [Prof. WANG Rui](http://lasso.eee.sustech.edu.cn/). GPA: (3.74/4.00), ranked 2/50.
 
-- <b>Bachelor in Communication Engineering, South University of Science and Technology</b> <i style="float: right">September. 2019 - July. 2023</i>
+- <b>Bachelor in Communication Engineering, South University of Science and Technology (SUSTech)</b> <i style="float: right">Sept. 2019 - Jul. 2023</i>
 
   Supervised by [Prof. Perry Ping Shum](https://faculty.sustech.edu.cn/?tagid=shenp&iscss=1&snapid=1&orderby=date&go=1). GPA: (3.77/4.00), ranked 6/33.
 
