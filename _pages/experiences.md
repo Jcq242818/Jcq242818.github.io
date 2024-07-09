@@ -8,7 +8,7 @@ redirect_from:
   - /experience.html/
 ---
 
-<big>**Teaching**</big>
+<big>**Teaching Experience**</big>
 
 - **Teaching Assistant** at SUSTech (2023 - 2024)
 
