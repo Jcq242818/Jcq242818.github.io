@@ -12,7 +12,7 @@ redirect_from:
 
 **Note: Underline (___) means the corresponding authors, same as below.**
 
-- **[Journal of Radars'24]** Zhenyu Ren, **Chenqing Ji**, Chao Yu, Wanli Chen, <u>Rui Wang</u>, "[Computer Vision–assisted Wireless Channel Simulation for millimeter-wave Human Motion Recognition](https://radars.ac.cn/cn/article/doi/10.12000/JR24101)".  [[Paper]](../files/Ji-Journal_of_Radars.pdf)
+- **[Journal of Radars'24]** Zhenyu Ren, **Chenqing Ji**, Chao Yu, <u>Wanli Chen</u>, <u>Rui Wang</u>, "[Computer Vision–assisted Wireless Channel Simulation for millimeter-wave Human Motion Recognition](https://radars.ac.cn/cn/article/doi/10.12000/JR24101)".  [[Paper]](../files/Ji-Journal_of_Radars.pdf)
 [[Project Page]](https://lasso-sustech.github.io/CASTER/) [[Video Page]](https://www.bilibili.com/video/BV1DZ421n7WR/?vd_source=d2f70246147a31a62380e8b5c61b3d95)
 
 - **[IEEE OJ-COMS'24]** Zhenyu Ren, Guoliang Li, **Chenqing Ji**, Chao Yu, Shuai Wang, <u>Rui Wang</u>, "[CASTER: A Computer-Vision-Assisted Wireless Channel Simulator for Gesture Recognition](https://ieeexplore.ieee.org/document/10525191)". [[Paper]](../files/Ji-CASTER.pdf)
