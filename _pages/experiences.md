@@ -12,6 +12,7 @@ redirect_from:
 
 - **Teaching Assistant** at SUSTech (2023 - 2024)
 
+  - **[EE411]** Information Theory and Coding <i style="float: right">2024 Fall Semester</i>
   - **[EE312]** Design of Modern Communication Systems <i style="float: right">2024 Spring Semester</i>
   - **[EE313]** Wireless Communications <i style="float: right">2023 Fall Semester</i>
 
