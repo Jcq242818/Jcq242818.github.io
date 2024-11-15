@@ -11,6 +11,7 @@ redirect_from:
 
 <big>**Awards & Achievements**</big>
 
+- **Leader** for Guangdong University Students’ Science and Technology Innovation Cultivation Special Fund (“Climbing Plan” Special Fund), 2024∼2025 **(Funding: 20,000 RMB)**.
 - The Excellent Graduate Teaching Assistant for the Fall Semester in 2023.
 - **Core Member** for Guangdong University Students’ Science and Technology Innovation Cultivation Special Fund (“Climbing Plan” Special Fund), 2023∼2024 **(Funding: 20,000 RMB)**.
 - 2023 Southern University of Science and Technology Graduate Academic **Grand-Class** Scholarship.
