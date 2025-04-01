@@ -20,7 +20,6 @@ redirect_from:
 <img src="../images/Result_U_shaped.png" style="zoom:35.5%;" />
 
 <img src="../images/Result_triangle.png" style="zoom:35.5%;" />
-</div>
 
   **Paper:** <strong>Chenqing Ji</strong>, Jiahong Liu, Qionghui Liu, Yifei Sun, Chao Yu, and Rui Wang. "An Experimental Study on Fine-Grained Multistatic Sensing of UAV Trajectory via Cellular Downlink Signals," has submitted to <i>IEEE Wireless
   Communications Letters</i> (Current impact factor: 4.6, JCR Q1). [[Paper Link]: (available after acceptance)](.) | **Project Page:** [[Link]: (available after acceptance)](.) |
