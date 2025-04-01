@@ -18,8 +18,9 @@ redirect_from:
   <img src="../images/Result_U_shaped.png" style="zoom:35.5%;" />
   <img src="../images/Result_triangle.png" style="zoom:35.5%;" />
 
-  **Paper:** <strong>Chenqing Ji</strong>, Jiahong Liu, Qionghui Liu, Yifei Sun, Chao Yu, and Rui Wang. "An Experimental Study on Fine-Grained Multistatic Sensing of UAV Trajectory via Cellular Downlink Signals," has submitted to <i>IEEE Wireless
-    Communications Letters</i> (Current impact factor: 4.6, JCR Q1). | **Dataset:** [[Link]](https://lasso525.quickconnect.cn/d/s/12gRTWCXynuW6Srov7kWhZRYhru1LXts/9QsN_gaKp7aB1_PTxVsC76w9JUuBhOLb-ebfgm6_tJgw)
+  **Paper:** Zhenyu Ren, Guoliang Li, <strong>Chenqing Ji</strong>, Chao Yu, Shuai Wang, and Rui Wang. “CASTER: A Computer-Vision-Assisted Wireless Channel Simulator for Gesture Recognition,” in <i>IEEE Open Journal of the Communications Society</i>, vol. 5, pp. 3185-3195, 2024 (Current impact factor: 7.9, JCR Q1). [[Paper Link]](../files/Ji-CASTER.pdf) | **Codes:** [[Link]](https://github.com/rzy0901/testSpectrogram) | **Project Page:** [[Link]](https://lasso-sustech.github.io/CASTER/) (with three video demos).
+  <!-- **Paper:** <strong>Chenqing Ji</strong>, Jiahong Liu, Qionghui Liu, Yifei Sun, Chao Yu, and Rui Wang. "An Experimental Study on Fine-Grained Multistatic Sensing of UAV Trajectory via Cellular Downlink Signals," has submitted to <i>IEEE Wireless
+    Communications Letters</i> (Current impact factor: 4.6, JCR Q1). | **Dataset:** [[Link]](https://lasso525.quickconnect.cn/d/s/12gRTWCXynuW6Srov7kWhZRYhru1LXts/9QsN_gaKp7aB1_PTxVsC76w9JUuBhOLb-ebfgm6_tJgw) -->
 
 
 <big>**"Simulation Meets Reality" in Wireless Channel**</big>&nbsp;(April. 2023 - June. 2024)
