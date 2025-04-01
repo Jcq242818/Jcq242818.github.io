@@ -22,7 +22,7 @@ redirect_from:
     Communications Letters</i> (Current impact factor: 4.6, JCR Q1). | **Project Page:** [[Link]: (available after paper acceptance)](./) | **Dataset:** [[Link]](https://lasso525.quickconnect.cn/d/s/12gRTWCXynuW6Srov7kWhZRYhru1LXts/9QsN_gaKp7aB1_PTxVsC76w9JUuBhOLb-ebfgm6_tJgw)
 
 
-<big>**"Simulation Meets Reality" in Wireless Channel**</big>&nbsp;(April. 2023 - Now)
+<big>**"Simulation Meets Reality" in Wireless Channel**</big>&nbsp;(April. 2023 - June. 2024)
 
 - **CASTER:** Design a computer-vision-assisted simulation **software pipeline** to address the issue of **"labor-intensive" training radar dataset acquisition for mmWave-based wireless hand gesture recognition**. That is, in the proposed CASTER simulator, the training radar dataset can be simulated **via existing videos by ray-tracing based channel modeling**. Particularly, in the channel simulation, a gesture is represented by a sequence of snapshots, and the channel impulse response of each snapshot is calculated via tracing the rays scattered off a primitive-based hand model. Moreover, CASTER simulator relies on the existing video clips to extract the motion data of gestures. Thus, the massive measurements of wireless channel can be eliminated. The experiments first demonstrate an 83.0% average recognition accuracy of simulation-to-reality inference in recognizing 5 categories of gestures. Moreover, this accuracy can be boosted to 96.5% via the method of transfer learning. **[OJ-COMS'24]**
 
