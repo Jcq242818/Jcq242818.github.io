@@ -16,9 +16,7 @@ redirect_from:
 
   <div align="center">
   <img src="../images/Experiment.png" style="zoom:30%;" />
-
   <img src="../images/Result_U_shaped.png" style="zoom:35.5%;" />
-
   <img src="../images/Result_triangle.png" style="zoom:35.5%;" />
   </div>
 
