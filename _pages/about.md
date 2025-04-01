@@ -35,6 +35,7 @@ You can find my detailed resume here: [[CV.pdf]](../files/Curriculum_Vitae.pdf).
 - Computer Network in MAC layer (especially Wi-Fi protocols)
 
 ## Recent News
+- [03/29/2025] One paper is submitted to <i>IEEE Wireless Communications Letters</i>!
 - [06/05/2024] CASTER is accepted to OJ-COMS. Best congratulations to my senior [Zhenyu Ren](https://renzhenyu.site/)!
 - [26/01/2024] Our paper "Passive Respiration Detection via mmWave Communication Signal Under Interference" is accepted to WCNC 2024.
 - [01/09/2023] Joining SUSTech as a M.S. student. New journey!😊😊😊
