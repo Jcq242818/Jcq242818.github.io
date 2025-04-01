@@ -8,19 +8,26 @@ redirect_from:
   - /project.html/
 ---
 
-<big>**An Experimental Study on Fine-Grained Multistatic Sensing of UAV Trajectory via Cellular Downlink Signal**</big>&nbsp;(June. 2024 - Now)
+<big>**1. An Experimental Study on Fine-Grained Multistatic Sensing of UAV Trajectory via Cellular Downlink Signal**</big>&nbsp;(June. 2024 - Now)
 
 - In this Project, I proposed a **Doppler-only multistatic passive unmanned aerial vehicles (UAVs) tracking system utilizing downlink long-term evolution (LTE) signals**. The performance of trajectory tracking is demonstrated by experiments on a low-altitude two-dimensional plain. Our experiments demonstrated that the tracking errors are below 50 cm for 90% of the trajectory, when the distance between the UAV and sensing receivers is below 30 m.
 
 - **Note: Detailed information of this project and related paper will be coming soon (maybe after paper acceptance)**.
 
-<img src="../images/channel_simulation.png" style="zoom:18%;" />
+<div align="center">
+<img src="../images/Experiment.png" style="zoom:20%;" />
+
+<img src="../images/Result_U_shaped.png" style="zoom:22%;" />
+
+<img src="../images/Result_triangle.png" style="zoom:22%;" />
+</div>
 
   **Paper:** <strong>Chenqing Ji</strong>, Jiahong Liu, Qionghui Liu, Yifei Sun, Chao Yu, and Rui Wang. "An Experimental Study on Fine-Grained Multistatic Sensing of UAV Trajectory via Cellular Downlink Signals," has submitted to <i>IEEE Wireless
 Communications Letters</i> (Current impact factor: 4.6, JCR Q1). [[Paper Link]: (available after acceptance)](.) |
 **Dataset:** [[Link]](https://lasso525.quickconnect.cn/d/s/12gRTWCXynuW6Srov7kWhZRYhru1LXts/9QsN_gaKp7aB1_PTxVsC76w9JUuBhOLb-ebfgm6_tJgw)
-s
-<big>**"Simulation Meets Reality" in Wireless Channel**</big>&nbsp;(April. 2023 - Now)
+
+
+<big>**2. "Simulation Meets Reality" in Wireless Channel**</big>&nbsp;(April. 2023 - Now)
 
 - **CASTER:** Design a computer-vision-assisted simulation **software pipeline** to address the issue of **"labor-intensive" training radar dataset acquisition for mmWave-based wireless hand gesture recognition**. That is, in the proposed CASTER simulator, the training radar dataset can be simulated **via existing videos by ray-tracing based channel modeling**. Particularly, in the channel simulation, a gesture is represented by a sequence of snapshots, and the channel impulse response of each snapshot is calculated via tracing the rays scattered off a primitive-based hand model. Moreover, CASTER simulator relies on the existing video clips to extract the motion data of gestures. Thus, the massive measurements of wireless channel can be eliminated. The experiments first demonstrate an 83.0% average recognition accuracy of simulation-to-reality inference in recognizing 5 categories of gestures. Moreover, this accuracy can be boosted to 96.5% via the method of transfer learning. **[OJ-COMS'24]**
 
