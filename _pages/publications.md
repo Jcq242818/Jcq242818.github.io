@@ -12,13 +12,13 @@ redirect_from:
 
 **Note: Underline (___) means the corresponding authors, same as below.**
 
-- **[Submitted to IEEE WCL'25]** **Chenqing Ji**, Jiahong Liu, Qionghui Liu, Yifei Sun, Chao Yu, <u>Rui Wang</u>, "[An Experimental Study on Fine-Grained Multistatic Sensing of UAV Trajectory via Cellular Downlink Signals](.)".  [[Paper] (available after acceptance)](.)
+- **[IEEE WCL]** **Chenqing Ji**, Jiahong Liu, Qionghui Liu, Yifei Sun, Chao Yu, <u>Rui Wang</u>, "[An Experimental Study on Fine-Grained Multistatic Sensing of UAV Trajectory via Cellular Downlink Signals](.)".  [[Paper] (available after acceptance)](.)
 [[Dataset]](https://lasso525.quickconnect.cn/d/s/12gRTWCXynuW6Srov7kWhZRYhru1LXts/9QsN_gaKp7aB1_PTxVsC76w9JUuBhOLb-ebfgm6_tJgw)
 
-- **[Journal of Radars'24]** Zhenyu Ren, **Chenqing Ji**, Chao Yu, <u>Wanli Chen</u>, <u>Rui Wang</u>, "[Computer Vision–assisted Wireless Channel Simulation for millimeter-wave Human Motion Recognition](https://radars.ac.cn/cn/article/doi/10.12000/JR24101)".  [[Paper]](../files/Ji-Journal_of_Radars.pdf)
+- **[Journal of Radars]** Zhenyu Ren, **Chenqing Ji**, Chao Yu, <u>Wanli Chen</u>, <u>Rui Wang</u>, "[Computer Vision–assisted Wireless Channel Simulation for millimeter-wave Human Motion Recognition](https://radars.ac.cn/cn/article/doi/10.12000/JR24101)".  [[Paper]](../files/Ji-Journal_of_Radars.pdf)
 [[Project Page]](https://lasso-sustech.github.io/CASTER/) [[Video Page]](https://www.bilibili.com/video/BV1DZ421n7WR/?vd_source=d2f70246147a31a62380e8b5c61b3d95)
 
-- **[IEEE OJ-COMS'24]** Zhenyu Ren, Guoliang Li, **Chenqing Ji**, Chao Yu, Shuai Wang, <u>Rui Wang</u>, "[CASTER: A Computer-Vision-Assisted Wireless Channel Simulator for Gesture Recognition](https://ieeexplore.ieee.org/document/10525191)". [[Paper]](../files/Ji-CASTER.pdf)
+- **[IEEE OJ-COMS]** Zhenyu Ren, Guoliang Li, **Chenqing Ji**, Chao Yu, Shuai Wang, <u>Rui Wang</u>, "[CASTER: A Computer-Vision-Assisted Wireless Channel Simulator for Gesture Recognition](https://ieeexplore.ieee.org/document/10525191)". [[Paper]](../files/Ji-CASTER.pdf)
 [[GitHub]](https://github.com/rzy0901/testSpectrogram) [[Project Page]](https://lasso-sustech.github.io/CASTER/)
 
 
