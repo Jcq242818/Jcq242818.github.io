@@ -10,8 +10,7 @@ redirect_from:
 
 <big>**An Experimental Study on Fine-Grained Multistatic Sensing of UAV Trajectory via Cellular Downlink Signal**</big>&nbsp;(June. 2024 - Now)
 
-- In this Project, I proposed a **Doppler-only multistatic passive unmanned aerial vehicles (UAVs) tracking system utilizing downlink long-term evolution (LTE) signals**. The performance of trajectory tracking is demonstrated by experiments on a low-altitude two-dimensional plain. Our experiments demonstrated that the tracking errors are below 50 cm for 90% of the trajectory, when the distance between the UAV and sensing receivers is below 30 m. If the initial location of the UAV is unknown, by adding a new receiver and solving a minimum mean-squared error optimization problem, the complicated trajectories can be tracked
-with 90% errors below 90 cm.
+- In this Project, I proposed a **Doppler-only multistatic passive unmanned aerial vehicles (UAVs) tracking system utilizing downlink long-term evolution (LTE) signals**. The performance of trajectory tracking is demonstrated by experiments on a low-altitude two-dimensional plain. Our experiments demonstrated that the tracking errors are below 50 cm for 90% of the trajectory, when the distance between the UAV and sensing receivers is below 30 m. If the initial location of the UAV is unknown, by adding a new receiver and solving a minimum mean-squared error optimization problem, the complicated trajectories can be tracked with 90% errors below 90 cm.
 
 - **Note: Detailed information of this project and related paper will coming soon (after paper acceptance). The Dataset is available here: [[Link]](https://lasso525.quickconnect.cn/d/s/12gRTWCXynuW6Srov7kWhZRYhru1LXts/9QsN_gaKp7aB1_PTxVsC76w9JUuBhOLb-ebfgm6_tJgw)**.
 
